@@ -14,5 +14,5 @@ description: Personal Blog
 author: David Pearce
 
 #plugins:
-#  - jekyll-paginate
-#  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
