@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Contact"
 ---
 Here is some text
