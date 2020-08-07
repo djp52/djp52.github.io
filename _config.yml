@@ -5,10 +5,10 @@ theme: jekyll-theme-slate
 title: David Pearce
 
 # Short description of your site
-#description: Personal Blog
+description: Personal Blog
 
 # Your name to show in the footer
-#author: David Pearce
+author: David Pearce
 
 #plugins:
 #  - jekyll-paginate
