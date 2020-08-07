@@ -1,1 +1,3 @@
 # Home
+
+- [Sample post](/eg/)
