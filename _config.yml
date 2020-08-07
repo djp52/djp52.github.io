@@ -4,6 +4,9 @@ theme: jekyll-theme-slate
 # Name of website
 title: David Pearce
 
+navbar-links:
+  Home: "/"
+
 # Short description of your site
 description: Personal Blog
 
