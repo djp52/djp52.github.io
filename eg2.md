@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+categories: "Links"
 ---
 Here is some text
 
