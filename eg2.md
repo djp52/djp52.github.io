@@ -2,5 +2,6 @@
 title: "Contact"
 ---
 Here is some text
-[Twitter](http://www.twitter.com)
-Connect with me on [LinkedIn](http://www.linkedin.com)
+
+- [Twitter](http://www.twitter.com)
+- Connect with me on [LinkedIn](http://www.linkedin.com)
